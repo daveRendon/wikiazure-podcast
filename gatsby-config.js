@@ -3,7 +3,7 @@ module.exports = {
     title: ``,
     author: `Dave Rendon`,
     description: `Listen to the WikiAzure Podcast where we discuss about Tech Intensity.`,
-    siteUrl: `https://podcast.wikiazure.com`,
+    siteUrl: `/wikiazure-podcast`,
     social: {
       twitter: `DaveRndn`,
     },
