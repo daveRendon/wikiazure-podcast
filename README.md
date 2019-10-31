@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://ladybug.dev">
-    <img alt="Ladybug Podcast" src="https://ladybug.dev/static/615138c59d5de227e39c7044f4f2e92c/e9c7b/logo.png" width="320" />
+  <a href="https://wikiazure.com/blog">
+    <img alt="WikiAzure Podcast" src="https://wikiazurerep.azureedge.net/wp-content/uploads/2019/01/wikiazure.png" width="320" />
   </a>
 </p>
 <h1 align="center">
