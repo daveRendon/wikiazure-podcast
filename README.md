@@ -1,20 +1,23 @@
-<p align="center">
-  <a href="https://wikiazure.com/blog">
-    <img alt="WikiAzure Podcast" src="https://wikiazurerep.azureedge.net/wp-content/uploads/2019/01/wikiazure.png" width="320" />
-  </a>
-</p>
-<h1 align="center">
-  Welcome to the Ladybug Podcast!
-</h1>
+# Mediumish - Jekyll Theme
 
-Hosted by Kelly Vaughn, Ali Spittel, and Emma Wedekind, the Ladybug Podcast is debugging the tech industry. Every Monday dive into a new topic within tech, entrepreneurship, and careers.
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-## About our website
-Our podcast website is built using [Gatsby](https://gatsbyjs.org) and is fully open source! Find a bug? Think something could be better presented? Open a PR or issue and let us know!
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
-Special thank you to [Syntax](https://github.com/wesbos/Syntax) for giving us a starting point for our player code!
 
-## Get involved
-- [Leave us a review on Apple Podcasts](https://podcasts.apple.com/us/podcast/ladybug-podcast/id1469229625)
-- [Subscribe to our podcast](https://link.chtbl.com/ladybugpodcast)
-- [Follow @LadybugPodcast on Twitter](https://twitter.com/ladybugpodcast)
+### Copyright
+
+Copyright (C) 2019 Sal, https://www.wowthemes.net
+
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Contribute
+
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
+
+Thank you!
