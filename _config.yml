@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: 'https://podcast.wikiazure.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'wikiazure'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://wikiazure.us6.list-manage.com/subscribe/post?u=02b69fb6665744c97db5aad52&amp;id=6edade044c'
 include: ["_pages"]
 permalink: /:title/
 
