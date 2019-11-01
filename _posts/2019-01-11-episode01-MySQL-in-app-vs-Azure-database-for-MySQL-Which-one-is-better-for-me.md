@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "MySQL in app vs Azure Database for MySQL: Which one is better for me?"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/episode01/MS-Ignite-MySQL-in-app-vs-Azure-Database-for-MySQL-Which-one-is-better-for-me-daverendon.jpg
 featured: true
 hidden: true
 ---
