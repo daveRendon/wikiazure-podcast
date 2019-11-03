@@ -2,7 +2,7 @@
 layout: post
 title:  "Powerful things you can do with the Markdown editor"
 author: dave
-categories: [ Jekyll, tutorial ]
+categories: [ azure, azure ]
 image: assets/images/16.jpg
 hidden: true
 ---
