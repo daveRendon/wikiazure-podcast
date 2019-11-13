@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Microsoft Ignite 2019 - Experience & Takeaways"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/16.jpg
@@ -33,11 +33,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
 #### HTML
 
 ```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
+<script src="https://www.buzzsprout.com/704541.js?player=small" type="text/javascript" charset="utf-8"></script>
 ```
 
 #### CSS
