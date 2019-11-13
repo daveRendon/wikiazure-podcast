@@ -23,4 +23,4 @@ On this episode we talk about the overall Microsoft Ignite experience and takeaw
 + Raphi Solarsh: Acquisitions Editor at A Cloud Guru // Print and Digital Content Specialist
 + Amit Malik: IT enthusiast and technology evangelist focussed on cloud and emerging technologies.
 
-- Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/
+Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/
