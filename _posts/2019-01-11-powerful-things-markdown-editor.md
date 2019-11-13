@@ -4,7 +4,7 @@ title:  "Microsoft Ignite 2019 - Experience & Takeaways"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/16.jpg
-hidden: true
+hidden: false
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
