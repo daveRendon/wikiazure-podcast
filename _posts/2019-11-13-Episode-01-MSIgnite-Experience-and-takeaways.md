@@ -17,8 +17,8 @@ On this episode we talk about the overall Microsoft Ignite experience and takeaw
 ## Special Guests
 
 
-+ Ronen Ariely: Senior consultant and architect, in the fields of data platform and application development.
-+ Raphi Solarsh: Acquisitions Editor at A Cloud Guru // Print and Digital Content Specialist
-+ Amit Malik: IT enthusiast and technology evangelist focussed on cloud and emerging technologies.
++ <a href="https://www.linkedin.com/in/pitoach/" target="_blank">Ronen Ariely</a>: Senior consultant and architect, in the fields of data platform and application development.
++ <a href="https://www.linkedin.com/in/raphael-solarsh-12b826183/" target="_blank">Raphi Solarsh</a>: Acquisitions Editor at A Cloud Guru // Print and Digital Content Specialist
++ <a href="https://www.linkedin.com/in/amitmalik99/" target="_blank">Amit Malik</a>: IT enthusiast and technology evangelist focussed on cloud and emerging technologies.
 
 <p style="font-size: .7em;">Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/</p>
