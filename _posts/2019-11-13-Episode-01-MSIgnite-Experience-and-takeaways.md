@@ -3,7 +3,7 @@ layout: post
 title:  "Microsoft Ignite 2019 - Experience & Takeaways"
 author: dave
 categories: [ azure, azure ]
-image: assets/images/16.jpg
+image: assets/images/episode01/wikiazure-podcast-episode01-MSIgnite-2019-experience-takeaways.png
 hidden: false
 ---
 
