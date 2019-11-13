@@ -7,8 +7,6 @@ image: assets/images/episode01/wikiazure-podcast-episode01-MSIgnite-2019-experie
 hidden: false
 ---
 
-#### Microsoft Ignite 2019 - Experience & Takeaways
-
 <p>
 <script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/704541.js?player=small&artist=Wikiazure%20Podcast'></script>
 </p>
