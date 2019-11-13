@@ -32,9 +32,9 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 #### HTML
 
-
-<script src="https://www.buzzsprout.com/704541.js?player=small" type="text/javascript" charset="utf-8"></script>
-
+<p>
+<script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/704541.js?player=small&artist=Wikiazure%20Podcast'></script>
+</p>
 
 #### CSS
 
