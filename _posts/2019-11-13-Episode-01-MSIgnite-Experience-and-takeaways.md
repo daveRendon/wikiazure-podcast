@@ -19,8 +19,8 @@ On this episode we talk about the overall Microsoft Ignite experience and takeaw
 ## Special Guests
 
 
-+ Ronen Ariely: Ronen Ariely is a senior consultant and architect, in the fields of data platform and application development.
++ Ronen Ariely: Senior consultant and architect, in the fields of data platform and application development.
 + Raphi Solarsh: Acquisitions Editor at A Cloud Guru // Print and Digital Content Specialist
-+ Amit Malik: Amit Malik is an IT enthusiast and technology evangelist focussed on cloud and emerging technologies.
++ Amit Malik: IT enthusiast and technology evangelist focussed on cloud and emerging technologies.
 
 * Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/
