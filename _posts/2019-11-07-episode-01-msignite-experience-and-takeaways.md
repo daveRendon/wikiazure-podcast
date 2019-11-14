@@ -10,6 +10,8 @@ hidden: false
 <p>
 <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
+<p>
+This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away Microsoft Surface Earbuds headphones to our listeners. To participate, visit <a href="https://aka.ms/PodcastSweepstakes" target="_blank">https://aka.ms/PodcastSweepstakes</a> before December 15, 2019.</p>
 
 On this episode we talk about the overall Microsoft Ignite experience and takeaways with 3 special guests: 
 
