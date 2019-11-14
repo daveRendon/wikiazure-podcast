@@ -4,7 +4,7 @@ title:  "Microsoft Ignite 2019 - MySQL in app vs Azure Database for MySQL: Which
 author: dave
 categories: [ Azure, Azure Database ]
 image: assets/images/episode04/episode04-wikiazure-podcast-msignite-2019-AzureDatabaseForMySQL.png
-featured: true
+featured: false
 hidden: true
 ---
 
