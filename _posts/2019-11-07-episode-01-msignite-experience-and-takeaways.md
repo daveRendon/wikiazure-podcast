@@ -8,7 +8,7 @@ hidden: false
 ---
 
 <p>
-<script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/704541.js?player=small&artist=Wikiazure%20Podcast'></script>
+<script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 
 On this episode we talk about the overall Microsoft Ignite experience and takeaways with 3 special guests: 
