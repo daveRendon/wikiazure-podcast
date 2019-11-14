@@ -4,6 +4,7 @@ title:  "Microsoft Ignite 2019 - Experience & Takeaways with Ronen Ariely, Raphi
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode01/wikiazure-podcast-episode01-MSIgnite-2019-experience-takeaways.png
+featured: true
 hidden: false
 ---
 

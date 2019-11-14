@@ -4,6 +4,7 @@ title:  "Microsoft Ignite 2019 - Azure Announcements with Amit Malik"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode02/wikiazure-podcast-msignite-2019-azure-announcements-certifications.png
+featured: true
 hidden: false
 ---
 
