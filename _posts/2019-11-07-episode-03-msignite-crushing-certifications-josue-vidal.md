@@ -8,7 +8,7 @@ hidden: false
 ---
 
 <p>
-<script src="https://www.buzzsprout.com/704541/2072115-microsoft-ignite-2019-azure-announcements-certifications-with-amit-malik.js?player=small" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.buzzsprout.com/704541/2074521-microsoft-ignite-2019-crushing-azure-certifications-with-mvp-josue-vidal.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p>
 This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away Microsoft Surface Earbuds headphones to our listeners. To participate, visit <a href="https://aka.ms/PodcastSweepstakes" target="_blank">https://aka.ms/PodcastSweepstakes</a> before December 15, 2019.</p>
