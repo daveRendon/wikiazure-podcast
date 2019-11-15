@@ -17,7 +17,7 @@ This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away
 On this episode we talk about the overall Microsoft Ignite experience and takeaways with 3 special guests: 
 
 
-<img src="assets/images/episode01/wikiazure-podcast-episode01-microsoft-ignite.jpg">
+<img src="../assets/images/episode01/wikiazure-podcast-episode01-microsoft-ignite.jpg">
 
 ## Special Guests
 
