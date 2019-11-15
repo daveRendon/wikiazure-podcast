@@ -5,7 +5,7 @@ description: "Embracing tech intensity to build your own digital capabilities"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://podcast.wikiazure.com'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-152610368-1'
 disqus: 'wikiazure'
 mailchimp-list: 'https://wikiazure.us6.list-manage.com/subscribe/post?u=02b69fb6665744c97db5aad52&amp;id=6edade044c'
 include: ["_pages"]
