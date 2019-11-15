@@ -17,7 +17,10 @@ This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away
 On this episode we talk about the overall Microsoft Ignite experience and takeaways with 3 special guests: 
 
 
+<img src="assets/images/episode01/wikiazure-podcast-episode01-microsoft-ignite.jpg">
+
 ## Special Guests
+
 
 
 + <a href="https://www.linkedin.com/in/pitoach/" target="_blank">Ronen Ariely</a>: Senior consultant and architect, in the fields of data platform and application development. He has more than 15 years' experience in variety programming languages and technologies, leading development teams, and software companies, SQL & BI enterprise level solutions. Ronen is active in communities (aka pituach) in the field of Programming, SQL Server, and T-SQL. 
