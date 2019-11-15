@@ -12,7 +12,7 @@ hidden: true
 <p>
 <script src="https://www.buzzsprout.com/704541/2075574-microsoft-ignite-2019-mysql-in-app-vs-azure-database-for-mysql-which-one-is-better-for-me.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
-<p>
+<p style="font-style: oblique;font-weight: bolder;">
 This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away Microsoft Surface Earbuds headphones to our listeners. To participate, visit <a href="https://aka.ms/PodcastSweepstakes" target="_blank">https://aka.ms/PodcastSweepstakes</a> before December 15, 2019.</p>
 
 On this episode we will discuss with MVP Josue Vidal the main differences and benefits of using Azure Database for MySQL vs MySQL in App and main concerns from the organizations when moving their databases to the Cloud.
