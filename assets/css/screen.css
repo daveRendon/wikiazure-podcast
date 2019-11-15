@@ -899,5 +899,5 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
-.podcast-suscribe ul li{display: inline-block;list-style-type: none;}
-.podcast-suscribe p time{    font-weight: bolder;color: #1C9963!important;font-size: 1.8em!important;font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif!important;}
+.podcast-suscribe ul li{display: inline-block;list-style-type: none;padding:3px}
+.podcast-suscribe p time{font-weight: bolder;color: #1C9963!important;font-size: 1.8em!important;font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif!important;}
