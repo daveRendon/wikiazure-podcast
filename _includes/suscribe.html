@@ -1,7 +1,13 @@
 <div class="podcast-suscribe">
+    <!-- Post Date -->
     <p>
-        Suscribe
-    </p>
+        <small>
+            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            {% endif %}
+            </small>
+        </p>
     <ul>
         <li class="ml-1 mr-1">
             <a target="_blank" href="https://podcasts.apple.com/us/podcast/wikiazure-podcast/id1487759283" style="display: block; background-color: #000000; background-image: url(https://assets.buzzsprout.com/assets/public_players/listen_on-109d5ef29be389e41e77dd2c26ae2ab0a9cc72a6703624602ab41d9387a85924.svg); background-repeat: no-repeat; background-size: 1350px 28px; border-radius: 5px; text-indent: -9000px; background-position: 10px 7px; height: 40px; width: 162px;">Listen on Apple Podcasts</a>
