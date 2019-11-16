@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Listen to all the episodes!
+title: All episodes in one place!
 permalink: /episodes
 comments: true
 ---
