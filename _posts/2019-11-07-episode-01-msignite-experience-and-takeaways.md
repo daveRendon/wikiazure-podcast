@@ -19,14 +19,15 @@ On this episode we talk about the overall Microsoft Ignite experience and takeaw
 <h3>Episode Highlights</h3>
 
  + Introductions [0:50]
- + Addressing Security on Database migratino [1:52]
- + Benefits of using Azure Database for MySQL [3:30]
- + Considerations to migrate Databases to the Cloud [6:18]
+ + Overall experience at Microsoft Ignite 2019 on Interactives & Games [2:30]
+ + Azure commander game [7:23]
+ + About Microsoft Ignite 2019 networking and 3rd parties [10:15]
+ + Top takeaways from Microsoft Ignite 2019 [14:27]
 
 
 <img src="../assets/images/episode01/wikiazure-podcast-episode01-microsoft-ignite.jpg">
 
-## About our Special Guests
+<h3> About our Special Guests</h3>
 
 
 
