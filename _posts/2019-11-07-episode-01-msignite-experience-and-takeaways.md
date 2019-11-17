@@ -16,7 +16,12 @@ This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away
 
 On this episode we talk about the overall Microsoft Ignite experience and takeaways with 3 special guests: Ronen Ariely, Raphi Solarsh and Amit Malik.  
 
+<h3>Episode Highlights</h3>
 
+ + Introductions [0:50]
+ + Addressing Security on Database migratino [1:52]
+ + Benefits of using Azure Database for MySQL [3:30]
+ + Considerations to migrate Databases to the Cloud [6:18]
 
 
 <img src="../assets/images/episode01/wikiazure-podcast-episode01-microsoft-ignite.jpg">
@@ -31,4 +36,3 @@ On this episode we talk about the overall Microsoft Ignite experience and takeaw
 
 + <a href="https://www.linkedin.com/in/amitmalik99/" target="_blank">Amit Malik 🇮🇳</a>: IT enthusiast and technology evangelist focussed on cloud and emerging technologies.He is currently associated with Spektra Systems as Director of Technology where he helps Microsoft partners grow their cloud business by using effective tools and strategies. He specializes in cloud, DevOps, software defined infrastructure, application modernization, data platform and emerging technologies around AI. 
 
-<p style="font-size: .7em;">Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/</p>

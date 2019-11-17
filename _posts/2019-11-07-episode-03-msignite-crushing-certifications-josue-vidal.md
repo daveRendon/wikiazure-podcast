@@ -16,15 +16,19 @@ This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away
 
 On this episode we will discuss with MVP Josue Vidal the strategies to pass your Azure Certifications and what to do in case you fail the exam.
 
-Some steps suggested by Josue to pass your Microsoft Certification: 
+<h3>Episode Highlights</h3>
 
-* Create you mindmap 
-* Generate your study plan
-* Review specific content (books, videos, hands-on labs)
-* Use an exam simulator
+ + About Josue Vidal sessions on Microsoft Ignite 2019 [1:45]
+ + Strategy to pass your Microsoft Certification:  [3:45]
+ + Create you mindmap [4:02]
+ + Generate your study plan [4:18]
+ + Review specific content (books, videos, hands-on labs) [4:22]
+ + Use an exam simulator [4:57]
+ + What you should do if you fail the exam [9:17]
+ + Josue Vidal motivation to keep up on certifications [11:10]
+ + Josue Vidal recommendations and takeaways from Microsoft Ignite 2019 [12:26]
 
-Josue also addressed some steps to get certified and what to do if you fail the exam
+ <h3>About Josué Vidal</h3>
 
 + <a href="https://www.linkedin.com/in/josuevidal/" target="_blank">Josue Vidal</a>: Experienced professional; offering +15 Years of experience in consultative and complex technical sales and deployment projects in real world scenarios; including creation new cloud business solution, licensing management until day by day operations; 10+ years in account and partner management including pre and post-sales, design solutions, migrations and prepare technical and commercial proposal.
 
-<p style="font-size: .7em;">Line Of Fire by Audionautix is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Artist: http://audionautix.com/</p>
