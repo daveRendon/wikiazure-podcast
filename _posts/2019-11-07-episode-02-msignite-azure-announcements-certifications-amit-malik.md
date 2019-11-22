@@ -12,7 +12,7 @@ hidden: false
 <script src="https://www.buzzsprout.com/704541/2072115-microsoft-ignite-2019-azure-announcements-certifications-with-amit-malik.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-This episode was recorded during Microsoft Ignite 2019, Microsoft is giving away Microsoft Surface Earbuds headphones to our listeners. To participate, visit <a href="https://aka.ms/PodcastSweepstakes" target="_blank">https://aka.ms/PodcastSweepstakes</a> before December 15, 2019.</p>
+This episode was recorded during Microsoft Ignite 2019,The event organizers are giving you a chance to win one of 10 Surface Earbuds just for listening to this recording! To be in the chance to win, visit <a href="https://aka.ms/PodcastSweepstakes" target="_blank">https://aka.ms/PodcastSweepstakes</a> and complete your details. Entries close 11:59 p.m. Pacific Time on December 15, 2019.</p>
 
 On this episode we talk about some announcements related to Azure during Microsoft Ignite and Amit´s experience on passing certifications during Microsoft Ignite 2019 
 
