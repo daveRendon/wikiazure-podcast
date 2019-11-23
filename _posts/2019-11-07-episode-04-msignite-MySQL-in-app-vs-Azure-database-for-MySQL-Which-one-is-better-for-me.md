@@ -6,6 +6,7 @@ categories: [ Azure, Azure Database ]
 image: assets/images/episode04/episode04-wikiazure-podcast-msignite-2019-AzureDatabaseForMySQL.png
 featured: true
 hidden: false
+episodeURI: <script src="https://www.buzzsprout.com/704541/2075574-microsoft-ignite-2019-mysql-in-app-vs-azure-database-for-mysql-which-one-is-better-for-me.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 
