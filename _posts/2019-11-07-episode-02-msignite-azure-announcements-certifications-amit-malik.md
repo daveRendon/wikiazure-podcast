@@ -6,6 +6,7 @@ categories: [ azure, azure ]
 image: assets/images/episode02/wikiazure-podcast-msignite-2019-azure-announcements-certifications.png
 featured: true
 hidden: false
+episodeURI: <script src="https://www.buzzsprout.com/704541/2072115-microsoft-ignite-2019-azure-announcements-certifications-with-amit-malik.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 <p>
