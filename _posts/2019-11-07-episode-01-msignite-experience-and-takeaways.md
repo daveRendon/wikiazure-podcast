@@ -6,6 +6,7 @@ categories: [ azure, azure ]
 image: assets/images/episode01/wikiazure-podcast-episode01-MSIgnite-2019-experience-takeaways.png
 featured: true
 hidden: false
+episodeURI: <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 <p>
