@@ -21,7 +21,7 @@ On this episode we will discuss with MVP Josue Vidal the main differences and be
 <h3>Episode Highlights</h3>
 
  + Main concerns and painpoints when migrating databases to the Cloud [1:23]
- + Addressing Security on Database migratino [1:52]
+ + Addressing Security on Database migration [1:52]
  + Benefits of using Azure Database for MySQL [3:30]
  + Considerations to migrate Databases to the Cloud [6:18]
  

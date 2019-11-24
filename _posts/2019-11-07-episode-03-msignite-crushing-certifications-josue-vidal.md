@@ -21,7 +21,7 @@ On this episode we will discuss with MVP Josue Vidal the strategies to pass your
 
  + About Josue Vidal sessions on Microsoft Ignite 2019 [1:45]
  + Strategy to pass your Microsoft Certification:  [3:45]
- + Create you mindmap [4:02]
+ + Create you mind map [4:02]
  + Generate your study plan [4:18]
  + Review specific content (books, videos, hands-on labs) [4:22]
  + Use an exam simulator [4:57]
