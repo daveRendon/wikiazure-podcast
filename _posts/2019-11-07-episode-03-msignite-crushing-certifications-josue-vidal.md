@@ -30,7 +30,7 @@ On this episode we will discuss with MVP Josue Vidal the strategies to pass your
  + Josue Vidal recommendations and takeaways from Microsoft Ignite 2019 [12:26]
 
 
-Here is the session presented at Microsoft Ignite 2019: 
+Here is the session presented at Microsoft Ignite 2019 by Josue Vidal and Carlos Motta: 
 <a href="https://myignite.techcommunity.microsoft.com/sessions/80741?latestplayer=true" target="_blank">EXAM PREP: AZ-103 | Microsoft Azure Administrator</a>
 
 
