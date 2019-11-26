@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Azure Advent Calendar with Gregor Sutti 🏴󠁧󠁢󠁳󠁣󠁴󠁿 & Richard Hooper 🇬🇧"
+title:  "The Azure Advent Calendar with Gregor Suttie 🏴󠁧󠁢󠁳󠁣󠁴󠁿 & Richard Hooper 🇬🇧"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode05/wikiazure-podcast-azure-advent-calendar.png
