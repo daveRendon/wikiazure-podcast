@@ -6,11 +6,11 @@ categories: [ azure, azure ]
 image: assets/images/episode05/wikiazure-podcast-azure-advent-calendar.png
 featured: false
 hidden: true
-episodeURI: <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
+episodeURI: <script src="https://www.buzzsprout.com/704541/2174858-the-azure-advent-calendar-with-gregor-sutti-richard-hooper.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 <p>
-<script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.buzzsprout.com/704541/2174858-the-azure-advent-calendar-with-gregor-sutti-richard-hooper.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
 On this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode we talk about The Azure Advent Calendar, an idea by Richard Hooper (@Pixel_Robots) and Gregor Suttie (@Gregor_suttie) where you could enjoy free videos from Azure Experts around the globe!
