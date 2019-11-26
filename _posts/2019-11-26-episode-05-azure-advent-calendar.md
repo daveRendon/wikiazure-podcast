@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Microsoft Ignite 2019 - Experience & Takeaways with Ronen Ariely 🇮🇱, Raphi Solarsh 🇿🇦 and Amit Malik 🇮🇳"
+title:  "Microsoft Azure Advent Calendar with Gregor Sutti and Richard Hooper"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode05/wikiazure-podcast-azure-advent-calendar.png
-featured: true
+featured: false
 hidden: true
 episodeURI: <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
