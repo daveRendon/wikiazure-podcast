@@ -34,6 +34,9 @@ Here is the session presented at Microsoft Ignite 2019 by Josue Vidal and Carlos
 <a href="https://myignite.techcommunity.microsoft.com/sessions/80741?latestplayer=true" target="_blank">EXAM PREP: AZ-103 | Microsoft Azure Administrator</a>
 
 
+<img src="../assets/images/episode03/wikiazure-podcast-episode03-microsoft-ignite-josue-vidal.jpg">
+
+
  <h3>About Josué Vidal</h3>
 
 + <a href="https://www.linkedin.com/in/josuevidal/" target="_blank">Josue Vidal</a>: Experienced professional; offering +15 Years of experience in consultative and complex technical sales and deployment projects in real world scenarios; including creation new cloud business solution, licensing management until day by day operations; 10+ years in account and partner management including pre and post-sales, design solutions, migrations and prepare technical and commercial proposal.
