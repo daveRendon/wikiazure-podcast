@@ -17,6 +17,7 @@ On this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_
 </p>
 Follow <a href="https://twitter.com/search?q=%23azurefamily&src=typed_query" target="_blank"> #azurefamily</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">#azureadventcalendar</a>
 
+Youtube Channel: <a href="https://www.youtube.com/channel/UCJL9wCcmeMBbah4J0uOWIPg" target="_blank">Azure Advent Calendar</a>
 
 <h3>Episode Highlights</h3>
 
