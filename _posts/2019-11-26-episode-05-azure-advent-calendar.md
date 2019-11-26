@@ -3,7 +3,7 @@ layout: post
 title:  "Microsoft Ignite 2019 - Experience & Takeaways with Ronen Ariely 🇮🇱, Raphi Solarsh 🇿🇦 and Amit Malik 🇮🇳"
 author: dave
 categories: [ azure, azure ]
-image: assets/images/episode01/wikiazure-podcast-episode01-MSIgnite-2019-experience-takeaways.png
+image: assets/images/episode05/wikiazure-podcast-azure-advent-calendar.png
 featured: true
 hidden: true
 episodeURI: <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
@@ -13,12 +13,10 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ign
 <script src="https://www.buzzsprout.com/704541/2057835-microsoft-ignite-2019-experience-takeaways.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-On this #WikiAzurePodcast episode we talk about The Azure Advent Calendar, an idea by Richard Hooper @Pixel_Robots and Gregor Suttie @Gregor_suttie where you could enjoy free videos from Azure Experts which will be available on a date in December via the Azure Advent Calendar website
-
-Follow #azurefamily and #azureadventcalendar
-further questions contact @Pixel_Robots or @Gregor_suttie on Twitter (with hash tag #azureadventcalendar).
+On this #WikiAzurePodcast episode we talk about The Azure Advent Calendar, an idea by Richard Hooper (@Pixel_Robots) and Gregor Suttie (@Gregor_suttie) where you could enjoy free videos from Azure Experts which will be available on a date in December via the Azure Advent Calendar website
 </p>
- 
+Follow #azurefamily and #azureadventcalendar
+further questions contact @Pixel_Robots or @Gregor_suttie on Twitter (with hash tag #azureadventcalendar). 
 
 <h3>Episode Highlights</h3>
 
@@ -32,8 +30,8 @@ further questions contact @Pixel_Robots or @Gregor_suttie on Twitter (with hash 
  + What to expect from The Azure Advent Calendar [12:14]
  + Takeaways from Microsoft Ignite [13:30]
 
+Check out the upcoming sessions:<a href="https://azureadventcalendar.com/" target="_blank">Azure Advent Calendar</a>
 
-<img src="../assets/images/episode05/azure-advent-calendar.png">
 
 <h3> About our Special Guests</h3>
 
