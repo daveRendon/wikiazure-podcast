@@ -16,10 +16,12 @@ comments: true
 <h4>How often will new episodes be published?</h4>
 <p>Every Wednesday! Check out all the episodes <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
 
+<h4>What topics will you cover?</h4>
+<p>The WikiAzure Podcast will discuss topics around the latest cloud technologies including Microsoft Azure and the growing AI ecosystem to help you stay ahead of the curve. <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://twitter.com/daverndn">@DaveRndn</a>!</p>
+<p>Hand them off to <a href="https://twitter.com/daverndn">@DaveRndn</a>!</p>
 
 </div>
 
