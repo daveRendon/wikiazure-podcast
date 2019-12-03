@@ -8,12 +8,14 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Welcome to the WikiAzure Podcast where we talk about embracing tech intensity to build your own digital capabilities! WikiAzure Podcast will help you get the skills required to advance your career so that you can stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies. </p>
+<p>Welcome to the WikiAzure Podcast where we talk about embracing tech intensity to build your own digital capabilities!</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>The WikiAzure Podcast will help you get the skills required to advance your career so that you can stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies. </p>
 
-<p>Check out all the episodes <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
+
+<h4>How often will new episodes be published?</h4>
+<p>Every Wednesday! Check out all the episodes <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
+
 
 <h4>Questions or bug reports?</h4>
 
