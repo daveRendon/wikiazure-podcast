@@ -10,7 +10,7 @@ comments: true
 
 <p>Welcome to the WikiAzure Podcast where we talk about embracing tech intensity to build your own digital capabilities!</p>
 
-<p>The WikiAzure Podcast will help you get the skills required to advance your career so that you can stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies. </p>
+<p>WikiAzure Podcast will help you get the skills required to advance your career and stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies.</p>
 
 
 <h4>How often will new episodes be published?</h4>
