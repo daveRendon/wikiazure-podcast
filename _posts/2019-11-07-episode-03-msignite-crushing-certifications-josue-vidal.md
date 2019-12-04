@@ -4,7 +4,7 @@ title:  "Microsoft Ignite 2019 - Crushing Azure Certifications with MVP Josue Vi
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode03/episode03-wikiazure-podcast-msignite-2019-crushing-azure-certifications-josue-vidal.png
-featured: true
+featured: false
 hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2074521-microsoft-ignite-2019-crushing-azure-certifications-with-mvp-josue-vidal.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
