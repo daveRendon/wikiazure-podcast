@@ -22,8 +22,11 @@ Net-University: <a href="http://bit.ly/netuniversity-ninja" target="_blank">Curs
 <h3>Episode Highlights</h3>
 
  + Introducciones [0:34]
- + Sobre Juan Carlos Ruiz [4:48]
- + 
+ + Sobre Juan Carlos Ruiz [1:55]
+ + Benficios de Certificaciones Microsoft basadas en roles [4:43]
+ + Tips para estudiar para una certificación [10:50]
+ + ¿Por dónde comenzar tu camino para la certificación? [17:53]
+ + Recursos de aprendizaje [23:41]
 
 <h3> About our Special Guest</h3>
 
