@@ -23,11 +23,7 @@ Net-University: <a href="http://bit.ly/netuniversity-ninja" target="_blank">Curs
 
  + Introducciones [0:34]
  + Sobre Juan Carlos Ruiz [4:48]
- + Where can I review the Azure advent calendar sessions? [7:20]
- + Gregor and Richard advice to advance your career through Cloud/Azure [8:33]
- + What to expect from The Azure advent calendar [12:14]
- + Takeaways from Azure advent calendar [13:30]
-
+ + 
 
 <h3> About our Special Guest</h3>
 
