@@ -1,0 +1,43 @@
+---
+layout: post
+title: "¿Por qué obtener certificaciones Microsoft Azure?"
+author: dave
+categories: [ azure, azure ]
+image: assets/images/episode06/microsoftcertified.jpg
+featured: true
+hidden: false
+episodeURI: <script src="https://www.buzzsprout.com/704541/2235707-por-que-obtener-certificaciones-microsoft-azure.js?player=small" type="text/javascript" charset="utf-8"></script>
+---
+
+<p>
+<script src="https://www.buzzsprout.com/704541/2235707-por-que-obtener-certificaciones-microsoft-azure.js?player=small" type="text/javascript" charset="utf-8"></script>
+</p>
+<p style="font-style: oblique;font-weight: bolder;">
+En este episodio de <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> conversamos con Juan Carlos Ruiz Pacheco, Senior Cloud Solutions Architect @Microsoft sobre cómo obtener las habilidades de Azure para impulsar tu carrera, desde capacitación basada en roles hasta cursos avanzados, y por qué debes obtener certificaciones reconocidas por la industria.
+</p>
+Follow <a href="https://twitter.com/JuanKRuiz" target="_blank"> @JuanK</a> 
+
+Net-University: <a href="http://bit.ly/netuniversity-ninja" target="_blank">Cursos en línea disponibles</a>
+
+<h3>Episode Highlights</h3>
+
+ + Introducciones [0:34]
+ + Sobre Juan Carlos Ruiz [4:48]
+ + Where can I review the Azure advent calendar sessions? [7:20]
+ + Gregor and Richard advice to advance your career through Cloud/Azure [8:33]
+ + What to expect from The Azure advent calendar [12:14]
+ + Takeaways from Azure advent calendar [13:30]
+
+
+<h3> About our Special Guest</h3>
+
++ <a href="https://www.linkedin.com/in/juankruiz/" target="_blank">Juan Carlos Ruiz Pacheco 󠁧󠁢</a>: Senior Cloud Solutions Architect - Microsoft.
+
+I really enjoy what I do: transfer my knowledge and experiences to others to improve their professional life.
+
+Software architect and consultant in information systems,
+
+I have over 20 years working in the technology industry, few years as IT Pro and most of the time as software architect and developer, building applications for the financial and insurance industry.
+
+
+
