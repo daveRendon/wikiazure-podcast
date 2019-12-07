@@ -3,7 +3,7 @@ layout: post
 title: "Tips para obtener certificaciones Microsoft Azure"
 author: dave
 categories: [ azure, azure ]
-image: assets/images/episode06/microsoftcertified.jpg
+image: assets/images/episode06/azurecert.png
 featured: true
 hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2235707-por-que-obtener-certificaciones-microsoft-azure.js?player=small" type="text/javascript" charset="utf-8"></script>
