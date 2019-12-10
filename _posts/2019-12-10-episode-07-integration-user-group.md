@@ -46,7 +46,8 @@ Get visibility into your containers/Kubernetes using Azure Monitor: <a href="htt
 
 
 + <a href="https://www.linkedin.com/in/lexhegt/" target="_blank">Lex Hegt</a>:
-<img src="assets/images/episode07/lex-hegt.jpg" alt="Lex Hegt" style="width:200px;border-radius: 50%;">
+
+<img src="../assets/images/episode07/lex-hegt.jpg" alt="Lex Hegt" style="width:200px;border-radius: 50%;clear:both;float:left">
 
 <p>Lives together with his wife Odette and two kids, Denise and Casper, near The Hague in The Netherlands. Although his first steps in IT date back to mid-1980’s, he started with Microsoft Integration technologies in 2004. He has worked at different Dutch consultancy companies like Ordina and Axon Olympus (now Codit Netherlands), and all his job assignments shaped him to an experienced BizTalk Server administrator, developer and trainer.</p>
 
