@@ -20,10 +20,6 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
 <p>The goal of the Integration User Group is to educate, evangelize, and inform the community about various integration technologies, and how developers and architects of various, yet intersecting disciplines can share and learn about the evolving integration and messaging capabilities of the Microsoft platform.</p>
 
 
-Follow <a href="https://twitter.com/michael_stephen" target="_blank"> Michael_Stephen</a>  
-Follow <a href="https://twitter.com/lexhegt" target="_blank"> Lex Hegt</a>
-
-
 <h3>Episode Highlights</h3>
 
  + Introductions [1:03]
@@ -41,14 +37,15 @@ Get visibility into your containers/Kubernetes using Azure Monitor: <a href="htt
 
 <h3> About our Special Guests</h3>
 
-+ <a href="https://www.linkedin.com/in/michaelstephensonuk1/" target="_blank">Mike Stephenson</a>
++ <a href="https://www.linkedin.com/in/michaelstephensonuk1/" target="_blank">Mike Stephenson</a> <i class="fab fa-twitter"></i><a href="https://twitter.com/michael_stephen" target="_blank"> Michael_Stephen</a>
 
 <img src="../assets/images/episode07/mike-stephenson.jpg" alt="Mike Stephenson" style="width:150px;border-radius: 50%;clear:both;float:left;padding: 5px;">
 
 <p>Freelance Cloud Specialist and Architect with a strong background of years working in Enterprise Integration environments. Michael has been a Microsoft MVP for 10 years for technologies such as Microsoft Azure since it was first released and also a history working with BizTalk going back to 2002 edition.</p>
 
 
-+ <a href="https://www.linkedin.com/in/lexhegt/" target="_blank">Lex Hegt</a>:
++ <a href="https://www.linkedin.com/in/lexhegt/" target="_blank">Lex Hegt</a> <i class="fab fa-twitter"></i>
+<a href="https://twitter.com/lexhegt" target="_blank"> Lex Hegt</a>
 
 <img src="../assets/images/episode07/lex-hegt.jpg" alt="Lex Hegt" style="width:150px;border-radius: 50%;clear:both;float:left;padding: 5px;">
 
