@@ -20,11 +20,9 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
 <p>The goal of the Integration User Group is to educate, evangelize, and inform the community about various integration technologies, and how developers and architects of various, yet intersecting disciplines can share and learn about the evolving integration and messaging capabilities of the Microsoft platform.</p>
 
 
+Follow <a href="https://twitter.com/michael_stephen" target="_blank"> Michael_Stephen</a>  
+Follow <a href="https://twitter.com/lexhegt" target="_blank"> Lex Hegt</a>
 
-Follow <a href="https://twitter.com/michael_stephen" target="_blank"> Michael_Stephen</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">https://twitter.com/michael_stephen</a>
-Follow <a href="" target="_blank"> Michael_Stephen</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">https://twitter.com/michael_stephen</a>
-
-Youtube Channel: <a href="https://www.youtube.com/channel/UCJL9wCcmeMBbah4J0uOWIPg" target="_blank">Azure Advent Calendar</a>
 
 <h3>Episode Highlights</h3>
 
