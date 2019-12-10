@@ -42,14 +42,14 @@ Get visibility into your containers/Kubernetes using Azure Monitor: <a href="htt
 <h3> About our Special Guests</h3>
 
 + <a href="https://www.linkedin.com/in/michaelstephensonuk1/" target="_blank">Mike Stephenson</a>: 
-Freelance Cloud Specialist and Architect with a strong background of years working in Enterprise Integration environments. Michael has been a Microsoft MVP for 10 years for technologies such as Microsoft Azure since it was first released and also a history working with BizTalk going back to 2002 edition.
+<p>Freelance Cloud Specialist and Architect with a strong background of years working in Enterprise Integration environments. Michael has been a Microsoft MVP for 10 years for technologies such as Microsoft Azure since it was first released and also a history working with BizTalk going back to 2002 edition.</p>
 
 
 + <a href="https://www.linkedin.com/in/lexhegt/" target="_blank">Lex Hegt</a>:  
-Together with his wife Odette and two kids, Denise and Casper, near The Hague in The Netherlands. Although his first steps in IT date back to mid-1980’s, he started with Microsoft Integration technologies in 2004. He has worked at different Dutch consultancy companies like Ordina and Axon Olympus (now Codit Netherlands), and all his job assignments shaped him to an experienced BizTalk Server administrator, developer and trainer.
+<p>Together with his wife Odette and two kids, Denise and Casper, near The Hague in The Netherlands. Although his first steps in IT date back to mid-1980’s, he started with Microsoft Integration technologies in 2004. He has worked at different Dutch consultancy companies like Ordina and Axon Olympus (now Codit Netherlands), and all his job assignments shaped him to an experienced BizTalk Server administrator, developer and trainer.</p>
 
-Since 2016 started working at BizTalk360. At that company he is a Technical Lead, helping the teams to further develop the BizTalk360 and Atomic Scope products. Lex is also responsible for running trainings and community initiatives like Integration Monday, Middleware Friday and multiple community-oriented newsletters.
+<p>Since 2016 started working at BizTalk360. At that company he is a Technical Lead, helping the teams to further develop the BizTalk360 and Atomic Scope products. Lex is also responsible for running trainings and community initiatives like Integration Monday, Middleware Friday and multiple community-oriented newsletters.</p>
 
-In his spare time, Lex enjoys spending time with his family, listening to music, playing piano, goal keeping at field hockey and wining and dining with good company.
+<p>In his spare time, Lex enjoys spending time with his family, listening to music, playing piano, goal keeping at field hockey and wining and dining with good company.</p>
 
 
