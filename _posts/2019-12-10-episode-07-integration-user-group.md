@@ -13,14 +13,14 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2253980-the-integrati
 <script src="https://www.buzzsprout.com/704541/2253980-the-integration-user-group-the-learning-opportunities-and-upcoming-webinars.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I interview Lex Hegt and Mike Stephenson to discuss the work they are doing in the "Integration Monday" initiative and the impact on the Microsoft Tech Community. 
+For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I interview Lex Hegt and Mike Stephenson to discuss the work they are doing in the "Integration Monday" initiative and the impact on the Microsoft Tech Community. </p>
 
-"Integration Monday is a community initiative brought to you by Michael Stephenson & Saravana Kumar and sponsored by Kovai.co. This initiative is focused on bringing Integration specific webinars from Microsoft Product Group, MVP’s, Community Members, and Customers. The webinars take place at 7:30 PM British Time every Monday. Take a look at the Upcoming events and Past events on Integration Monday"
+<p>"Integration Monday is a community initiative brought to you by Michael Stephenson & Saravana Kumar and sponsored by Kovai.co. This initiative is focused on bringing Integration specific webinars from Microsoft Product Group, MVP’s, Community Members, and Customers. The webinars take place at 7:30 PM British Time every Monday. Take a look at the Upcoming events and Past events on Integration Monday"</p>
 
-The goal of the Integration User Group is to educate, evangelize, and inform the community about various integration technologies, and how developers and architects of various, yet intersecting disciplines can share and learn about the evolving integration and messaging capabilities of the Microsoft platform.
+<p>The goal of the Integration User Group is to educate, evangelize, and inform the community about various integration technologies, and how developers and architects of various, yet intersecting disciplines can share and learn about the evolving integration and messaging capabilities of the Microsoft platform.</p>
 
 
-</p>
+
 Follow <a href="https://twitter.com/michael_stephen" target="_blank"> Michael_Stephen</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">https://twitter.com/michael_stephen</a>
 Follow <a href="" target="_blank"> Michael_Stephen</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">https://twitter.com/michael_stephen</a>
 
