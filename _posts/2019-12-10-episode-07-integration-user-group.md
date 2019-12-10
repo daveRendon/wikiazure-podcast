@@ -4,8 +4,8 @@ title:  "The Integration User Group: the learning opportunities and upcoming web
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode07/wikiazure-podcast-episode07-integration-monday-user-group.png
-featured: false
-hidden: true
+featured: true
+hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2253980-the-integration-user-group-the-learning-opportunities-and-upcoming-webinars.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
