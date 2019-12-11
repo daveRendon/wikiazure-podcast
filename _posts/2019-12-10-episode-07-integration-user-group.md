@@ -29,7 +29,7 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
  + How to get in touch [12:46]
  
 
-### Integration Monday
+<h3> Integration Monday</h3>
 <img src="../assets/images/episode07/integration-monday.png" alt="Integration Monday" />
 
 <a href="http://www.integrationusergroup.com/" target="_blank">Integration User Group web site</a>
