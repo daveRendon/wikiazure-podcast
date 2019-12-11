@@ -29,7 +29,10 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
  + How to get in touch [12:46]
  
 
-Check out the official website:<a href="http://www.integrationusergroup.com/" target="_blank">Integration User Group web site</a>
+### Integration Monday
+<img src="../assets/images/episode07/integration-monday.png" alt="Integration Monday" />
+
+<a href="http://www.integrationusergroup.com/" target="_blank">Integration User Group web site</a>
 
 
 Get visibility into your containers/Kubernetes using Azure Monitor: <a href="http://www.integrationusergroup.com/events/get-visibility-into-your-containers-kubernetes-using-azure-monitor/" target="_blank">Review session</a>
