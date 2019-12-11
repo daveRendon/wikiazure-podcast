@@ -15,9 +15,16 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2253980-the-integrati
 <p style="font-style: oblique;font-weight: bolder;">
 For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I interview Lex Hegt and Mike Stephenson to discuss the work they are doing in the "Integration Monday" initiative and the impact on the Microsoft Tech Community. </p>
 
+<img src="../assets/images/episode07/integration-monday.png" alt="Integration Monday" />
+
+<a href="http://www.integrationusergroup.com/" target="_blank">Integration User Group web site</a>
+
 <p>"Integration Monday is a community initiative brought to you by Michael Stephenson & Saravana Kumar and sponsored by Kovai.co. This initiative is focused on bringing Integration specific webinars from Microsoft Product Group, MVP’s, Community Members, and Customers. The webinars take place at 7:30 PM British Time every Monday. Take a look at the Upcoming events and Past events on Integration Monday"</p>
 
 <p>The goal of the Integration User Group is to educate, evangelize, and inform the community about various integration technologies, and how developers and architects of various, yet intersecting disciplines can share and learn about the evolving integration and messaging capabilities of the Microsoft platform.</p>
+
+Get visibility into your containers/Kubernetes using Azure Monitor: <a href="http://www.integrationusergroup.com/events/get-visibility-into-your-containers-kubernetes-using-azure-monitor/" target="_blank">Review session</a>
+
 
 
 <h3>Episode Highlights</h3>
@@ -28,15 +35,6 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
  + A global community [8:28]
  + How to get in touch [12:46]
  
-
-<h3> Integration Monday</h3>
-<img src="../assets/images/episode07/integration-monday.png" alt="Integration Monday" />
-
-<a href="http://www.integrationusergroup.com/" target="_blank">Integration User Group web site</a>
-
-
-Get visibility into your containers/Kubernetes using Azure Monitor: <a href="http://www.integrationusergroup.com/events/get-visibility-into-your-containers-kubernetes-using-azure-monitor/" target="_blank">Review session</a>
-
 
 <h3> About our Special Guests</h3>
 
