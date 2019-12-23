@@ -30,6 +30,8 @@ Net-University: <a href="http://bit.ly/netuniversity-ninja" target="_blank">Curs
 
 <h3> About our Special Guest</h3>
 
+<img src="../assets/images/episode06/juank.png" alt="Juan Carlos Ruiz" style="width:150px;border-radius: 50%;clear:both;float:left;padding: 5px;">
+
 + <a href="https://www.linkedin.com/in/juankruiz/" target="_blank">Juan Carlos Ruiz Pacheco 󠁧󠁢</a>: Senior Cloud Solutions Architect - Microsoft.
 
 I really enjoy what I do: transfer my knowledge and experiences to others to improve their professional life.
