@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Top considerations when moving to Exchange 2019 with Edward Van Biljon"
+author: dave
+categories: [ azure, azure ]
+image: assets/images/episode07/wikiazure-podcast-episode07-integration-monday-user-group.png
+featured: true
+hidden: true
+episodeURI: <script src="https://www.buzzsprout.com/704541/2394158-exploring-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
+---
+
+<p>
+<script src="https://www.buzzsprout.com/704541/2394158-exploring-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
+</p>
+<p style="font-style: oblique;font-weight: bolder;">
+For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I spotlight a Microsoft MVP and Microsoft TechNet wiki Expert Edward Van Biljon to discuss about his journey as MVP and why you should consider moving to Exchange 2019.  </p>
+
+
+<h3>Episode Highlights</h3>
+
+ + Introductions [0:33]
+ + About Edward Van Biljon [1:05]
+ + What´s new on Exchange 2019 [2:29]
+ + Why should I want to move to Exchange 2019 [4:39]
+ + Hands-on Exchange 2019 [7:40]
+ + Edward´s advice on advancing your career [9:27]
+
+<h3>Resources</h3>
+ 
+ + Blog - https://www.collaborationpro.com/
+ + Blog - https://everything-powershell.com/
+ + YouTube Channel - https://www.youtube.com/channel/UCIyC8N7k-1l45CnGMvmUxug/videos?view_as=subscriber
+
+
+
+
+<h3> About our Special Guest</h3>
+
++ <a href="https://www.linkedin.com/in/edward-van-biljon-75946840" target="_blank">Edward Van Biljon</a> 
+<i class="fab fa-twitter"></i><a href="https://twitter.com/edwardvbs" target="_blank"> @edwardvbs</a>
+
+
+<img src="../assets/images/episode08/edward.jpg" alt="Edward Van Biljon" style="width:150px;border-radius: 50%;clear:both;float:left;padding: 5px;">
+
+<p>Experienced Messaging Specialist with a demonstrated history of working in the information technology and services industry. Skilled in WSUS, Domain Name System (DNS), Data Center, Printer Support, and System Center Configuration Manager (SCCM). Strong information technology professional with a International Diploma in Programming focused in Computer Programming from CTI. </p>
