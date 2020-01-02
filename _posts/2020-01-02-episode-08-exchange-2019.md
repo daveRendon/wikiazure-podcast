@@ -6,11 +6,11 @@ categories: [ azure, azure ]
 image: assets/images/episode08/wikiazure-podcast-episode08-exchange-2019.png
 featured: true
 hidden: true
-episodeURI: <script src="https://www.buzzsprout.com/704541/2394158-exploring-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
+episodeURI: <script src="https://www.buzzsprout.com/704541/2394158-top-considerations-when-moving-to-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 <p>
-<script src="https://www.buzzsprout.com/704541/2394158-exploring-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.buzzsprout.com/704541/2394158-top-considerations-when-moving-to-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
 For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I spotlight a Microsoft MVP and Microsoft TechNet wiki Expert Edward Van Biljon to discuss about his journey as MVP and why you should consider moving to Exchange 2019.  </p>
