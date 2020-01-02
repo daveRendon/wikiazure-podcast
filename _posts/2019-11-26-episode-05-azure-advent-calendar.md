@@ -4,7 +4,7 @@ title:  "The Azure Advent Calendar with Gregor Suttie 🏴󠁧󠁢󠁳󠁣󠁴�
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode05/wikiazure-podcast-azure-advent-calendar.png
-featured: true
+featured: false
 hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2174858-the-azure-advent-calendar-with-gregor-sutti-richard-hooper.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
