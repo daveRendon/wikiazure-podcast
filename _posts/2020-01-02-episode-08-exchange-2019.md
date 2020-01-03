@@ -27,9 +27,9 @@ For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead
 
 <h3>Resources</h3>
  
- + Blog - https://www.collaborationpro.com/
- + Blog - https://everything-powershell.com/
- + YouTube Channel - https://www.youtube.com/channel/UCIyC8N7k-1l45CnGMvmUxug/videos?view_as=subscriber
+ + <i class="fab fa-globe"></i> - <a href="https://www.collaborationpro.com/" target="_blank">Collaboration Pro</a>
+ + <i class="fab fa-globe"></i> - <a href="https://everything-powershell.com/" target="_blank">Everything Powershell</a>
+ + <i class="fab fa-youtube"></i>  - <a href="https://www.youtube.com/channel/UCIyC8N7k-1l45CnGMvmUxug/videos?view_as=subscriber" target="_blank">YouTube Channel </a>
 
 
 
