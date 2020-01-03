@@ -30,11 +30,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Sponsors</h5>
 
-<p>Thank you for your support! Your sponsorhip helps me to maintain and improve <a target="_blank" href="https://podcast.wikiazure.com">WikiAzure Podcast <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UMSKQ3JWADJZG&lc=US&item_name=WikiAzure%20Podcast&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" class="btn">
-<img src="assets\images\coffee.png">
-</a>
+<p>Feel free to send a Direct Message to get a copy of our sponsorship guidelines <a target="_blank" href="https://twitter.com/daverndn"> <i class="fab fa-github"></i>@DaveRndn </a>.</p>
 
 </div>
 </div>
