@@ -19,7 +19,7 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Sponsors</h5>
 
-<p>Feel free to send a Direct Message to get a copy of our sponsorship guidelines <a target="_blank" href="https://twitter.com/daverndn"> <i class="fab fa-github"></i>@DaveRndn </a>.</p>
+<p>Feel free to send a Direct Message to get a copy of our sponsorship guidelines <a target="_blank" href="https://twitter.com/daverndn"> <i class="fab fa-twitter"></i> @DaveRndn </a>.</p>
 
 
 <a target="_blank" href="https://wikiazure.com/blog" class="btn btn-warning">Blog</a>
