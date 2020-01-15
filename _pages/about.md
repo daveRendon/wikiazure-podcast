@@ -32,13 +32,10 @@ comments: true
 
 <p>Feel free to send a Direct Message to get a copy of our sponsorship guidelines <a target="_blank" href="https://twitter.com/daverndn"> <i class="fab fa-twitter"></i> @DaveRndn </a>.</p>
 
-
 <h5>Awards & Recognitions</h5>
 
-<img src="https://wikiazurerep.azureedge.net/wp-content/uploads/2020/01/wikiazure-Top-50-Microsoft-Azure-Blogs.gif" style="max-width:100px"/>
+<img src="https://wikiazurerep.azureedge.net/wp-content/uploads/2020/01/wikiazure-Top-50-Microsoft-Azure-Blogs.gif" style="max-width:200px"/>
 <p>WikiAzure Podcast listed in the  <a target="_blank" href="https://blog.feedspot.com/azure_podcasts/"> Top 10 Azure Podcasts You Must Follow in 2020.</p>
-
-
 
 </div>
 </div>
