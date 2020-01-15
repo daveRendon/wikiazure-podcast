@@ -35,7 +35,8 @@ comments: true
 <h5>Awards & Recognitions</h5>
 
 <img src="https://wikiazurerep.azureedge.net/wp-content/uploads/2020/01/wikiazure-Top-50-Microsoft-Azure-Blogs.gif" style="max-width:200px"/>
-<p>WikiAzure Podcast listed in the  <a target="_blank" href="https://blog.feedspot.com/azure_podcasts/"> Top 10 Azure Podcasts You Must Follow in 2020.</p>
+
+<p>WikiAzure Podcast listed in the  <a target="_blank" href="https://blog.feedspot.com/azure_podcasts/"> Top 10 Azure Podcasts You Must Follow in 2020.</a></p>
 
 </div>
 </div>
