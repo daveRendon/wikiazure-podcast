@@ -5,7 +5,7 @@ author: dave
 categories: [ azure, azure ]
 image: assets/images/episode08/wikiazure-podcast-episode08-exchange-2019.png
 featured: true
-hidden: true
+hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2394158-top-considerations-when-moving-to-exchange-2019-with-edward-van-biljon.js?player=small" type="text/javascript" charset="utf-8"></script>
 ---
 

@@ -5,7 +5,7 @@ author: dave
 categories: [ azure, azure ]
 image: assets/images/episode09/azure-spring-clean.jpg
 featured: true
-hidden: true
+hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2602669-azure-late-show-podcast-episode-09-azure-spring-clean-with-joe-carlyle.js?container_id=buzzsprout-player-2602669&player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
