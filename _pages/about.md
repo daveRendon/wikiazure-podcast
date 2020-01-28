@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About WikiAzure Podcast
+title: About Azure Late Show Podcast
 permalink: /about
 comments: true
 ---
@@ -8,16 +8,16 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Welcome to the WikiAzure Podcast where we talk about embracing tech intensity to build your own digital capabilities!</p>
+<p>Welcome to the Azure Late Show Podcast where we talk about embracing tech intensity to build your own digital capabilities!</p>
 
-<p>WikiAzure Podcast will help you get the skills required to advance your career and stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies.</p>
+<p>The Azure Late Show Podcast will help you get the skills required to advance your career and stay ahead of the curve on the azure ecosystem, provide a better understanding of the Cloud & AI and become deeply knowledgeable about the latest technologies.</p>
 
 
 <h4>How often will new episodes be published?</h4>
 <p>Every Wednesday! Check out all the episodes <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
 
 <h4>What topics will you cover?</h4>
-<p>The WikiAzure Podcast will discuss topics around the latest cloud technologies including Microsoft Azure and the growing AI ecosystem to help you stay ahead of the curve. <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
+<p>The Azure Late Show Podcast will discuss topics around the latest cloud technologies including Microsoft Azure and the growing AI ecosystem to help you stay ahead of the curve. <a href="https://podcast.wikiazure.com/episodes">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
@@ -36,7 +36,7 @@ comments: true
 
 <img src="https://wikiazurerep.azureedge.net/wp-content/uploads/2020/01/wikiazure-Top-50-Microsoft-Azure-Blogs.gif" style="max-width:200px"/>
 
-<p>WikiAzure Podcast listed in the  <a target="_blank" href="https://blog.feedspot.com/azure_podcasts/"> Top 10 Azure Podcasts You Must Follow in 2020.</a></p>
+<p>Azure Late Show Podcast listed in the  <a target="_blank" href="https://blog.feedspot.com/azure_podcasts/"> Top 10 Azure Podcasts You Must Follow in 2020.</a></p>
 
 </div>
 </div>
