@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure Spring Clean with Joe Carlyle"
+title:  "Azure Spring Clean with Microsoft Azure MVP Joe Carlyle"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode09/azure-spring-clean.jpg
@@ -23,9 +23,9 @@ Azure Spring Clean includes community driven articles that highlight best-practi
 <h3>Episode Highlights</h3>
 
  + Introductions [0:33]
- + About Joe Carlyle [1:05]
- + Azure Spring Clean [2:29]
- + Joe´s MVP journey [7:40]
+ + Azure Spring Clean [1:00]
+ + The story behind the Azure Spring Clean [6:00]
+ + Becoming a Microsoft MVP [18:20]
  
 
 <h3>Resources</h3>
