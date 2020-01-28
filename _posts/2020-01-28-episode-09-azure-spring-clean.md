@@ -16,7 +16,7 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2602669-azure-late-sh
 For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a>podcast episode, I interview a Microsoft MVP Joe Carlyle to discuss about his journey as MVP and the Azure Spring Clean initiative.  </p>
 
 <p>
-Azure Spring clean includes community driven articles that highlight best-practises, lessons learned, and help with some of the more difficult topics of Azure Management
+Azure Spring Clean includes community driven articles that highlight best-practises, lessons learned, and help with some of the more difficult topics of Azure Management
 </p>
 
 
