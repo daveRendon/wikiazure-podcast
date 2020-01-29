@@ -13,7 +13,7 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2235707-por-que-obten
 <script src="https://www.buzzsprout.com/704541/2235707-por-que-obtener-certificaciones-microsoft-azure.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-En este episodio de <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> conversamos con Juan Carlos Ruiz Pacheco, Senior Cloud Solutions Architect @Microsoft sobre algunos tips para obtener las habilidades sobre Azure para impulsar tu carrera, desde capacitación basada en roles hasta cursos avanzados, y por qué debes obtener certificaciones reconocidas por la industria.
+En este episodio de <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> conversamos con Juan Carlos Ruiz Pacheco, Senior Cloud Solutions Architect @Microsoft sobre algunos tips para obtener las habilidades sobre Azure para impulsar tu carrera, desde capacitación basada en roles hasta cursos avanzados, y por qué debes obtener certificaciones reconocidas por la industria.
 </p>
 
 Net-University: <a href="http://bit.ly/netuniversity-ninja" target="_blank">Cursos en línea disponibles</a>

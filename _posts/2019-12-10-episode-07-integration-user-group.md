@@ -13,7 +13,7 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2253980-the-integrati
 <script src="https://www.buzzsprout.com/704541/2253980-the-integration-user-group-the-learning-opportunities-and-upcoming-webinars.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-For this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode, I interview Lex Hegt and Mike Stephenson to discuss the work they are doing in the "Integration Monday" initiative and the impact on the Microsoft Tech Community. </p>
+For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> episode, I interview Lex Hegt and Mike Stephenson to discuss the work they are doing in the "Integration Monday" initiative and the impact on the Microsoft Tech Community. </p>
 
 <img src="../assets/images/episode07/integration-monday.png" alt="Integration Monday" />
 

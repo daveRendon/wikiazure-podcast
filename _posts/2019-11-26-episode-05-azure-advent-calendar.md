@@ -13,7 +13,7 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2174858-the-azure-adv
 <script src="https://www.buzzsprout.com/704541/2174858-the-azure-advent-calendar-with-gregor-sutti-richard-hooper.js?player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-On this <a href="https://twitter.com/search?q=%23WikiAzurePodcast&src=typeahead_click" target="_blank">#WikiAzurePodcast</a> episode we talk about The Azure Advent Calendar, an idea by Richard Hooper (@Pixel_Robots) and Gregor Suttie (@Gregor_suttie) where you could enjoy free videos from Azure Experts around the globe!
+On this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> episode we talk about The Azure Advent Calendar, an idea by Richard Hooper (@Pixel_Robots) and Gregor Suttie (@Gregor_suttie) where you could enjoy free videos from Azure Experts around the globe!
 </p>
 Follow <a href="https://twitter.com/search?q=%23azurefamily&src=typed_query" target="_blank"> #azurefamily</a> and <a href="https://twitter.com/search?q=%23azureadventcalendar&src=typed_query" target="_blank">#azureadventcalendar</a>
 
