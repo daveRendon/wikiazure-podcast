@@ -19,7 +19,6 @@ For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_cl
 <h3>Episode Highlights</h3>
 
  + Introductions [0:33]
- + Logic Apps – Configure Retry Settings [1:08]
  + Logic Apps overview [2:39]
  + Tip 1 - Reliability - Configure Retry Settings [4:39]
  + Tip 2 - Performance - Looping options in Azure Logic Apps [8:22]
