@@ -14,7 +14,7 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/2626543-azure-late-sh
 <script src="https://www.buzzsprout.com/704541/2626543-azure-late-show-episode-010-5-tips-to-make-you-a-logic-apps-pro-with-ezhilarasi-kesavan.js?container_id=buzzsprout-player-2626543&player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> podcast episode, Ezhilarasi Kesavan shares his experience as IT professional and product manager at Serverless 360 and provides 5 tips to help you become a Logic Apps Pro.  </p>
+For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> podcast episode, Ezhilarasi Kesavan shares her experience as IT professional and product consultant at Serverless 360 and provides 5 tips to help you become a Logic Apps Pro.  </p>
 
 <h3>Episode Highlights</h3>
 
