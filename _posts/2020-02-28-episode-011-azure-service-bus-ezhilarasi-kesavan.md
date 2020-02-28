@@ -3,7 +3,7 @@ layout: post
 title:  "5 tips to become an Azure Service Bus Pro with Ezhilarasi Kesavan"
 author: dave
 categories: [ azure, azure ]
-image: assets/images/episode010/logicapps.jpg
+image: assets/images/episode011/Azure-Late-Show-Podcast-Episode-011-5 tips-to-become-an-Azure-Service-Bus-Pro-with-Ezhilarasi-Kesavan.jpg
 featured: true
 hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2867980-azure-late-show-episode-011-5-tips-to-become-azure-service-bus-pro-with-ezhilarasi-kesavan.js?container_id=buzzsprout-player-2867980&player=small" type="text/javascript" charset="utf-8"></script>
