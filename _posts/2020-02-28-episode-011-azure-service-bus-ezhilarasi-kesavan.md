@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 tips to become a Logic Apps Pro with Ezhilarasi Kesavan"
+title:  "5 tips to become an Azure Service Bus Pro with Ezhilarasi Kesavan"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode010/logicapps.jpg
