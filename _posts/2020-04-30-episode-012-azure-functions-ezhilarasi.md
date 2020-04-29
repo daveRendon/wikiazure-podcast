@@ -16,6 +16,20 @@ episodeURI: <script src="https://www.buzzsprout.com/704541/3560008-azure-late-sh
 <p style="font-style: oblique;font-weight: bolder;">
 For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> podcast episode, we talk about how you can leverage Azure Functions with Ezhilarasi Kesavan, IT professional and product consultant at Serverless 360.</p>
 
+<h3>Episode Highlights</h3>
+
+ + Introductions [0:35]
+ + About Azure Functions [0:58]
+ + Azure Functions use cases [1:40]
+ + The economics of serverless computing, learn to estimate your project with Azure Functions [3:20]
+ + Choose Linux/windows to run your Azure Function [6:29]
+ + Scaling Azure Functions [7:20]
+ + Best practices to leverage Azure Functions [8:10]
+ + Supported languages [9:55]
+ + Azure Functions settings [11:22]
+ + Securing your Azure Function [13:11]
+ + Monitoring Azure Functions [14:55]
+ + Serverless 360 benefits [17:33]
 
 <h3>Resources</h3>
  
