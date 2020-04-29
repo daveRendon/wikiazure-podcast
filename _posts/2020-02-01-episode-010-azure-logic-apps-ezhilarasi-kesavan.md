@@ -4,7 +4,7 @@ title:  "5 tips to make you a Logic Apps Pro with Ezhilarasi Kesavan"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode010/logicapps.jpg
-featured: true
+featured: false
 hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/2626543-azure-late-show-episode-010-5-tips-to-make-you-a-logic-apps-pro-with-ezhilarasi-kesavan.js?container_id=buzzsprout-player-2626543&player=small" type="text/javascript" charset="utf-8"></script>
 ---

@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "5 tips to become an Azure Service Bus Pro with Ezhilarasi Kesavan"
+title:  "Azure Functions: Best practices to build and architect your serverless solutions"
 author: dave
 categories: [ azure, azure ]
-image: assets/images/episode011/Azure-Late-Show-Podcast-Episode-011-5 tips-to-become-an-Azure-Service-Bus-Pro-with-Ezhilarasi-Kesavan.jpg
+image: assets/images/episode012/azure-functions-Ezhilarasi-azure-late-show-podcast.jpg
 featured: false
-hidden: false
-episodeURI: <script src="https://www.buzzsprout.com/704541/2867980-azure-late-show-episode-011-5-tips-to-become-azure-service-bus-pro-with-ezhilarasi-kesavan.js?container_id=buzzsprout-player-2867980&player=small" type="text/javascript" charset="utf-8"></script>
+hidden: true
+episodeURI: <script src="https://www.buzzsprout.com/704541/3560008-azure-late-show-podcast-episode-012-azure-functions-best-practices-to-build-and-architect-your-serverless-solutions.js?container_id=buzzsprout-player-3560008&player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
 <p>
-<div id="buzzsprout-player-2867980"></div>
-<script src="https://www.buzzsprout.com/704541/2867980-azure-late-show-episode-011-5-tips-to-become-azure-service-bus-pro-with-ezhilarasi-kesavan.js?container_id=buzzsprout-player-2867980&player=small" type="text/javascript" charset="utf-8"></script>
+<div id="buzzsprout-player-3560008"></div>
+<script src="https://www.buzzsprout.com/704541/3560008-azure-late-show-podcast-episode-012-azure-functions-best-practices-to-build-and-architect-your-serverless-solutions.js?container_id=buzzsprout-player-3560008&player=small" type="text/javascript" charset="utf-8"></script>
 </p>
 <p style="font-style: oblique;font-weight: bolder;">
-For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> podcast episode, Ezhilarasi Kesavan shares her experience as IT professional and product consultant at Serverless 360 and provides 5 tips on the Azure Service Bus component.  </p>
+For this <a href="https://twitter.com/search?q=%23AzureLateShow&src=typeahead_click" target="_blank">#AzureLateShow</a> podcast episode, we talk about how you can leverage Azure Functions with Ezhilarasi Kesavan, IT professional and product consultant at Serverless 360.</p>
 
 
 <h3>Resources</h3>
