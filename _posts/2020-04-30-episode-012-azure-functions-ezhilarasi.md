@@ -4,8 +4,8 @@ title:  "Azure Functions: Best practices to build and architect your serverless 
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode012/azure-functions-Ezhilarasi-azure-late-show-podcast.jpg
-featured: false
-hidden: true
+featured: true
+hidden: false
 episodeURI: <script src="https://www.buzzsprout.com/704541/3560008-azure-late-show-podcast-episode-012-azure-functions-best-practices-to-build-and-architect-your-serverless-solutions.js?container_id=buzzsprout-player-3560008&player=small" type="text/javascript" charset="utf-8"></script>
 ---
 
