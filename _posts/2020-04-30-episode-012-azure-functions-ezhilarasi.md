@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Azure Functions: Best practices to build and architect your serverless solutions"
+title:  "Azure Functions: Best practices to build and architect your serverless solutions with Ezhilarasi Kesavan"
 author: dave
 categories: [ azure, azure ]
 image: assets/images/episode012/azure-functions-Ezhilarasi-azure-late-show-podcast.jpg
