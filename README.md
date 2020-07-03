@@ -1,10 +1,10 @@
-# WikiAzure Podcast
+# Azure Late Show Podcast
 
-[Site](https://podcast.wikiazure.com) &nbsp; 
+[Site](https://azurelate.show) &nbsp; 
 
 
 
 ### Copyright
 
-Copyright (C) 2019 WikiAzure, https://wikiazure.com
+Copyright (C) 2020 WikiAzure, https://wikiazure.com
 
